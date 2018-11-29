@@ -1,2 +1,2 @@
-# voinsource-public-license
-voinsource public license archive
+# voinsource public license
+Different voinsource public license and certificate archives can be found here.
